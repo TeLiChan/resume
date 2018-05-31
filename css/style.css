@@ -137,14 +137,16 @@ a{
 
 
 .fourSearch{
-	width: 100%;
 	border: 5px solid 	#00F5FF;
 	border-radius: 20px;
-	width:1028px;
-	margin: 0 auto;
 	height: 362px;
 	padding:30px 20px 30px 20px;
+	width: 850px;
+	margin: 0 auto;
 }
+
+.fourSearch img{ max-width:100%;
+            height: auto;max-width: 100%; display: block; }
 
 .slip4{
 	height: 180px;
